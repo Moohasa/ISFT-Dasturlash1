@@ -1,0 +1,66 @@
+1. Algoritm tushunchasi va uning asosiy xossalarini tahlil qilish (6 ta masala)
+1.1. Ekranga “Salom, Dunyo!” matnini chiqaruvchi dastur tuzing.
+1.2. Foydalanuvchi ismini kiritib, unga “Salom, [ism]!” deb murojaat qiluvchi dastur yozing.
+1.3. Foydalanuvchidan ikki son kiritib, ularning yig‘indisini ekranga chiqaruvchi dastur tuzing.
+1.4. Foydalanuvchidan son kiritib, uning kvadratini toping.
+1.5. Foydalanuvchidan son kiritib, u son musbat, manfiy yoki nol ekanini aniqlovchi algoritm yarating.
+1.6. Uchta butun sonning eng kattasini aniqlaydigan dastur yozing.
+
+2.  C++ dasturlash muhitida oddiy dastur yaratish (6 ta masala)
+2.1. Foydalanuvchidan ism, familiya, yosh ma’lumotlarini kiritib, barchasini chiroyli shaklda ekranga chiqaruvchi dastur yarating.
+2.2. Haroratni Selsiydan Farengeytga o‘tkazuvchi dastur tuzing.
+2.3. To‘g‘ri to‘rtburchakning uzunligi va eni berilgan. Uning yuzi va perimetrini hisoblang.
+2.4. Foydalanuvchidan son kiritib, uning kubini hisoblang.
+2.5. Uchburchakning uch tomoni kiritiladi. Uning perimetrini hisoblang.
+2.6. Biror mahsulot narxi va miqdori kiritiladi. Umumiy to‘lov summasini hisoblang.
+
+3. Dastur kompilyatsiyasi va kompilyator turlarini o‘rganish (6 ta masala)
+3.1. C++ dasturini Visual Studio muhiti orqali yozish va kompilyatsiya qilishni amalda bajarish.
+3.2. C++ dasturini Code::Blocks muhiti orqali yaratish va ishga tushirish.
+3.3. Oddiy matematik formulani (masalan, a+ba+ba+b) yozib, kompilyatsiya jarayonini tahlil qiling.
+3.4. Koddagi sintaktik xatolikni aniqlab, uni to‘g‘rilashni mashq qiling.
+3.5. C++ da faylga yozish va undan o‘qishni amalga oshirib, kompilyatsiya farqini kuzating.
+3.6. Kompilyator tomonidan hosil bo‘lgan .exe faylni bajarish natijasini tahlil qiling.
+
+4.  Identifikatorlar va ularning turlarini amaliy misollarda qo‘llash (6 ta masala)
+4.1. O‘zgaruvchi nomlarini to‘g‘ri e’lon qilishni mashq qiling (int yosh, double narx, string ism va hokazo).
+4.2. Turli ma’lumot turlariga ega o‘zgaruvchilarni bir dasturda e’lon qilib, qiymat bering.
+4.3. Butun, haqiqiy va belgili o‘zgaruvchilar bilan hisob-kitob bajaruvchi dastur yozing.
+4.4. Identifikator nomida ruxsat etilmaydigan belgilar ishlatilib, xatolikni ko‘rsating.
+4.5. Konstantalardan foydalanib radius qiymatini o‘zgartirmasdan hisoblash.
+4.6. Global va lokal o‘zgaruvchilar farqini ko‘rsatuvchi dastur yozing.
+
+5. Matematik kutubxona funksiyalaridan foydalanish (7 ta masala)
+5.1. Foydalanuvchi tomonidan kiritilgan sonning kvadrat ildizini hisoblang (sqrt).
+5.2. Sonning sinus, kosinus, tangensini hisoblang (sin, cos, tan).
+5.3. Absolyut qiymatni (fabs) hisoblash dasturini yozing.
+5.4. Darajaga oshirish (pow) funksiyasini ishlatib aba^bab ni hisoblang.
+5.5. Radius berilgan bo‘lsa, doiraning yuzini va uzunligini toping.
+5.6. Foydalanuvchidan son kiritiladi, uni eng yaqin butun songa yaxlitlang (round, floor, ceil).
+5.7. Berilgan x uchun y=sin⁡(x)+cos⁡(2x)y = \sin(x) + \cos(2x)y=sin(x)+cos(2x) ifodani hisoblang.
+
+6. Chiziqli algoritmni tuzish bosqichlarini bajarish (7 ta masala)
+6.1. Ikki sonning o‘rtacha arifmetigini topuvchi dastur yozing.
+6.2. Uchta sonning o‘rtacha geometrigini hisoblang.
+6.3. Foydalanuvchidan x soni kiritiladi. y=3x2−2x+5y = 3x^2 - 2x + 5y=3x2−2x+5 ni hisoblang.
+6.4. Sonning kvadrat ildizi va kvadratini topuvchi dastur yozing.
+6.5. To‘g‘ri to‘rtburchakning diagonali uzunligini toping.
+6.6. Uchburchakning yuzi va perimetrini hisoblang (Geron formulasi).
+6.7. Foydalanuvchidan ikkita son kiritiladi, ularning ko‘paytmasi 100 dan katta yoki kichikligini aniqlang.
+
+7. O‘zgaruvchilar orqali ifodalarni hisoblash (6 ta masala)
+7.1. Foydalanuvchidan x qiymatini kiritib, y=x3+2x2−4x+1y = x^3 + 2x^2 - 4x + 1y=x3+2x2−4x+1 ni hisoblang.
+7.2. Uchburchakning balandligi va asosi berilgan. Yuzini toping.
+7.3. Aylananing radiusi kiritilganda uzunligi va yuzi topilsin.
+7.4. Foydalanuvchidan t vaqt va v tezlik berilganda, masofa s=v×ts = v \times ts=v×t ni hisoblang.
+7.5. Son kiritilganda, uning juft yoki toqligini aniqlang.
+7.6. Uchta son kiritiladi, ularning eng kattasini toping.
+
+8. Natijalarni formatlab chiqarish (6 ta masala)
+8.1. Haqiqiy sonning qiymatini 2 xonagacha aniqlik bilan ekranga chiqarish.
+8.2. Haqiqiy sonni butun qism va kasr qismini alohida ko‘rsatish.
+8.3. Valyuta hisoboti shaklida (masalan, 12500.50 so‘m) natijani formatlash.
+8.4. Jadval ko‘rinishida (ustunli) ma’lumotlarni chiroyli chiqarish.
+8.5. Foydalanuvchidan 3 son kiritiladi, ular uchun formatlangan chiqish hosil qiling.
+8.6. Natijalarni setw(), setprecision() yordamida formatlab chiqarish.
+8.7. Foydalanuvchidan ism, yosh, baho kiritilib, ma’lumotni jadval tarzida chiqarish.

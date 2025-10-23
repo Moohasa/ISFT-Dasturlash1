@@ -1,0 +1,1 @@
+C++ loyihasi yaratilganda redaktor (masalan VS) exe yaratadi masalan Project_03_06. exe kengaytmalai faylda kompyutorga o'zini tilida ma'lum buyrurqlar bo'aldi, uni aynan kompliyator kompyutor(mashina) tiliga tiliga o'girib yaratgan. dasturni papkadan exe kengaytmali faylni alohida ochib ishlatsa ham bo'ladi

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ISFT\\ISFT_Dasturlash_1\\Amaliyot_Cplus\\Kodlar\\Vazifa_1\\08_Formatlash\\Project08_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1F2EB9-8F93-455D-9C40-4066A0921E58}|Project08_7.vcxproj|D:\\ISFT\\ISFT_Dasturlash_1\\Amaliyot_Cplus\\Kodlar\\Vazifa_1\\08_Formatlash\\Project08_7\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B1F2EB9-8F93-455D-9C40-4066A0921E58}|Project08_7.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\ISFT\\ISFT_Dasturlash_1\\Amaliyot_Cplus\\Kodlar\\Vazifa_1\\08_Formatlash\\Project08_7\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "D:\\ISFT\\ISFT_Dasturlash_1\\Amaliyot_Cplus\\Kodlar\\Vazifa_1\\08_Formatlash\\Project08_7\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T06:48:59.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

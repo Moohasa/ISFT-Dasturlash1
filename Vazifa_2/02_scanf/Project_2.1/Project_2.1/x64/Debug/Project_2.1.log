@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\ISFT\ISFT_Dasturlash_1\Amaliyot_Cplus\Kodlar\Vazifa_2\02_scanf\Project_2.1\Source.cpp(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

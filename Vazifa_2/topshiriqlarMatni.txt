@@ -1,0 +1,65 @@
+1: printf() funksiyasi yordamida natijalarni formatlab chiqarish (6 ta masala)
+1.1. Uchta butun sonni bir qatorda chiqaruvchi dastur tuzing.
+1.2. Foydalanuvchidan ism kiritilib, “Salom, [ism]!” ko‘rinishida chiqsin.
+1.3. Haqiqiy sonni 2 xonagacha aniqlikda formatlab chiqaruvchi dastur yozing.
+1.4. Bir nechta qiymatlarni sarlavha bilan jadval tarzida chiqarish.
+1.5. Belgilarni ASCII kodi bilan chiqarish dasturini tuzing.
+1.6. Sonni turli formatlarda (%d, %x, %o) chiqarish dasturini yozing.
+
+🖋 2: scanf() funksiyasi yordamida ma’lumot kiritish (6 ta masala)
+2.1. Foydalanuvchidan butun son kiritib, uni qayta chiqarish dasturi.
+2.2. Foydalanuvchidan ikki son kiritib, ularning yig‘indisini hisoblash.
+2.3. Uchta butun son kiritilib, ularning o‘rtacha qiymatini topish.
+2.4. Foydalanuvchidan ism va yosh so‘rab, ularni chiqarish dasturi.
+2.5. Bir butun, bir haqiqiy va bir belgili qiymatni birgalikda kiritish dasturi.
+2.6. Foydalanuvchidan radiusni kiritib, aylana uzunligini hisoblash.
+
+3: Turli ma’lumot turlari bilan ishlash (int, float, char) (6 ta masala)
+3.1. Butun, haqiqiy va belgili o‘zgaruvchilarni e’lon qilib, qiymat berish va chiqarish.
+3.2. Foydalanuvchidan ism (char), yosh (int) va o‘rtacha baho (float) kiritish dasturi.
+3.3. Belgilar ustida arifmetik amal bajarish (masalan, 'A'+1 natijasini topish).
+3.4. Haqiqiy sonlarni kiritib, ularning kvadrat ildizini topish (sqrt).
+3.5. Belgini ASCII kodga, kodni esa belgiga o‘tkazuvchi dastur yozing.
+3.6. Butun sonni float turiga o‘tkazib, natijani formatlab chiqarish dasturi.
+
+⚙️ 4: Kiritish-chiqarish jarayonida yuzaga keluvchi xatoliklarni aniqlash (6 ta masala)
+4.1. Foydalanuvchi son o‘rniga matn kiritsa, xatolik haqida xabar beruvchi dastur.
+4.2. Kiritilgan qiymat manfiy bo‘lsa, “Musbat son kiriting” degan xabar chiqsin.
+4.3. Noto‘g‘ri ma’lumot turi kiritilganda dastur ishlashini to‘xtatsin.
+4.4. scanf() yordamida qiymat kiritilmasa, “Kiritish amalga oshmadi” deb chiqsin.
+4.5. Belgilar o‘rniga son kiritilganda dastur xabar bersin.
+4.6. Noto‘g‘ri kirish holatlarida “Xato!” so‘zi bilan ekranga chiqsin.
+
+5: Format spetsefikatorlardan foydalanish (6 ta masala)
+5.1. Sonni turli formatlarda chiqarish (%d, %x, %o).
+5.2. Haqiqiy sonni 3 xonagacha aniqlik bilan chiqarish (%.3f).
+5.3. Belgining ASCII kodini chiqarish dasturi.
+5.4. printf() yordamida matnni chap va o‘ngga hizalash (%-10s, %10s).
+5.5. Foydalanuvchidan kiritilgan sonni butun va kasr qismlarga ajratish dasturi.
+5.6. printf() orqali ustunli jadval ko‘rinishida natija chiqarish.
+
+➕ 6: Kiritilgan ma’lumotlarga arifmetik amallar qo‘llash (7 ta masala)
+6.1. Foydalanuvchidan ikki son kiritilib, ularning yig‘indisi topilsin.
+6.2. Ikki sonning ayirmasi, ko‘paytmasi va bo‘linmasini topish.
+6.3. Uchta son kiritilib, ularning eng kattasini topish.
+6.4. Berilgan radius bo‘yicha aylana yuzi va uzunligini hisoblash.
+6.5. Kiritilgan sonning kvadratini va kubini hisoblab chiqarish.
+6.6. Ikki son o‘rtasidagi farqning mutlaq qiymatini (fabs) topish dasturi.
+6.7. Foydalanuvchidan x kiritilib, y=3x2−2x+5y = 3x^2 - 2x + 5y=3x2−2x+5 ni hisoblash.
+
+🔤 7: Ikkita son yig‘indisi, ayirmasi, ko‘paytmasini chiqarish dasturi (6 ta masala)
+7.1. Foydalanuvchidan ikki butun son kiritilib, yig‘indi, ayirma, ko‘paytma chiqarilsin.
+7.2. Hamma natijalarni bitta printf yordamida chiqaruvchi dastur yozing.
+7.3. Hamma amallarni float tipida hisoblab, 2 xonagacha aniqlikda chiqarish.
+7.4. Natijani chiroyli shaklda jadval ko‘rinishida ko‘rsating.
+7.5. Foydalanuvchidan ikki son kiritilib, ularning o‘rta arifmetigini hisoblang.
+7.6. Kiritilgan sonlardan biri 0 bo‘lsa, “Bo‘linma mavjud emas” deb chiqsin.
+
+8: Kiritish va chiqarish jarayonini optimallashtirish (7 ta masala)
+8.1. Uchta qiymatni bitta scanf bilan kiritish va bitta printf bilan chiqarish.
+8.2. Foydalanuvchidan ism, yosh, baho kiritilib, natija formatlangan jadvalda chiqarilsin.
+8.3. scanf()da har xil format spetsefikatorlardan bir qatorda foydalanish (%d %f %c).
+8.4. Bir necha qiymatni vergul bilan ajratib kiritish (scanf("%d,%d") misolida).
+8.5. Bir nechta satrni gets() funksiyasi yordamida kiritish va chiqarish.
+8.6. Foydalanuvchi 5 ta son kiritsa, ularning o‘rtacha qiymatini topish.
+8.7. printf() yordamida natijalarni ustunli jadval shaklida chiroyli chiqarish.
